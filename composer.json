@@ -1,0 +1,13 @@
+{
+    "name": "djt/afinn-analyser",
+    "authors": [
+        {
+            "name": "Daniel Thompson",
+            "email": "39903410+d-thompson@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.2",
+        "davmixcool/php-sentiment-analyzer": "^1.2"
+    }
+}
